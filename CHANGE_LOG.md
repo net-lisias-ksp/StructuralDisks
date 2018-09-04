@@ -1,5 +1,9 @@
 # Structural Disks /L :: Change Log
 
+* 2016-1118: 1.1.2 (Benji13) for KSP 1.2.1
+	+ Fixed collider for Concave Disk
+		- Fixed nodes
+		- Concave Disk should be less laggy now
 * 2016-1113: 1.1.1 (Benji13) for KSP 1.2.1
 	+ Added TweakScale support
 		- Moved from FSmeshswitch to InterstellarMeshSwitch
