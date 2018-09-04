@@ -1,5 +1,7 @@
 # Structural Disks /L :: Change Log
 
+* 2016-1204: 1.2.0 (Benji13) for KSP 1.2.1
+	+ Dodgy zip, Don't download!
 * 2016-1202: 1.1.3 (Benji13) for KSP 1.2.1
 	+ Updated Module Manager to 2.7.5
 		- Updated Interstellar Fuel Switch to 2.2.9
