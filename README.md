@@ -5,10 +5,18 @@ Originally by Benji13, now under Lisias' caring.
 
 ## In a Hurry
 
-* [Releases](https://github.com/net-lisias-ksp/StructuralDisks/tree/Archive)
-* [Source](https://github.com/net-lisias-ksp/StructuralDisks)
 * [Latest Release](https://github.com/net-lisias-ksp/StructuralDisks/releases)
-* [Change Log](./CHANGE_LOG.md)
+    + [Binaries](https://github.com/net-lisias-ksp/StructuralDisks/tree/Archive)
+* [Source](https://github.com/net-lisias-ksp/StructuralDisks)
+* [Issue Tracker](https://github.com/net-lisias-ksp/StructuralDisks/issues)
+* Documentation	
+	+ [Homepage](http://ksp.lisias.net/add-ons/StructuralDisks) on L Aerospace KSP Division
+	+ [Project's README](https://github.com/net-lisias-ksp/StructuralDisks/blob/master/README.md)
+	+ [Change Log](./CHANGE_LOG.md)
+	+ [TODO](./TODO.md) list
+* Official Distribution Sites:
+	+ [Homepage](http://ksp.lisias.net/add-ons/StructuralDisks) on L Aerospace
+	+ [Source and Binaries](https://github.com/net-lisias-ksp/StructuralDisks) on GitHub.
 
 
 ## Description
